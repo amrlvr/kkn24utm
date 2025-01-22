@@ -328,6 +328,16 @@ section #text {
 	 width: 30%;
 }
 
+.glass2 {
+    padding-bottom: 50px;
+}
+
+#vid {
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
 
 /* Properties for mobile */
 @media screen and (max-width: 650px) {
